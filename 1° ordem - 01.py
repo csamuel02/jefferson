@@ -6,4 +6,5 @@ x = linspace(-10, 10, 10)
 y = 2 * x + 1
 
 plot(x ,y)
+grid()
 show()
